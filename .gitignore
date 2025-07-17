@@ -1,0 +1,8 @@
+/eks/default/.terraform
+/eks/default/.terraform.lock.hcl
+/eks/default/terraform.tfstate
+/eks/default/terraform.tfstate.backup
+/eks/default/project.json
+/eks/default/README.md
+/eks/default/.DS_Store
+/eks/default/.terraform.tfstate.lock.info
